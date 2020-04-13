@@ -1,0 +1,4 @@
+11 ion 40
+12 ioana 50
+13 cezar 20
+20 stefan 60

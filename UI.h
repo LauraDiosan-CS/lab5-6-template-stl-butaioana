@@ -1,10 +1,18 @@
 #pragma once
-#include"Service.h"
+#include "Service.h"
+
 class UI {
 private:
 	Service service;
-	void add();
-	void print();
 public:
+	UI();
+	~UI();
+	void add();
+	void remove();
+	void update();
+	void modificare();
+	void find_element();
+	void get_size();
+	void print();
 	void run();
 };
